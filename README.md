@@ -8,5 +8,6 @@ Home Page: An introduction to who I am, my background, and my professional journ
 Projects: A detailed showcase of my projects, including descriptions, technologies used, and links to live demos or repositories.
 Contact: A form to get in touch with me for collaborations, job opportunities, or inquiries.
 
-Technologies Used
+Technologies Used:
+
 Frontend: HTML, CSS, JavaScript
