@@ -1,5 +1,6 @@
-Overview
-Welcome to my personal portfolio! This project showcases my skills, projects, and experiences as a [Your Profession, e.g., Web Developer, Data Scientist, etc.]. It is designed to provide a comprehensive view of my work and capabilities.
+Overview:
+
+Welcome to my personal portfolio! This project showcases my skills, projects, and experiences as a Data Scientist/ Data Engineer/ Data Analyst. It is designed to provide a comprehensive view of my work and capabilities.
 
 Features
 Home Page: An introduction to who I am, my background, and my professional journey.
